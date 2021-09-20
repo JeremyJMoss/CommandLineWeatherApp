@@ -1,0 +1,16 @@
+{
+  "name": "node-weather-app",
+  "version": "1.0.0",
+  "description": "Node Weather App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "School of Coding (The Hackking School - AU)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "readline-sync": "^1.4.10"
+  }
+}
